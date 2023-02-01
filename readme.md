@@ -4,3 +4,6 @@ In diesem Modul geht es darum, eine API von Grund auf zu erstellen. Für diese A
 # Architektur
  - PHP
  - MySql
+
+# ERD
+![ERD](./erd.png)
